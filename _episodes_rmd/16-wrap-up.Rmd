@@ -69,6 +69,8 @@ uncluttered analysis script, and a repository of useful functions that can be
 loaded into any analysis script in your project. It also lets you group related
 functions together easily.
 
+It helps to write structured programs: load data, declare constants and variables, declare functions, clean the data, code that uses data and functions to produce output, save the result. The structure for functions also follows this model. Modular and structured code is easier to follow and adapt.  
+
 ## Break down problem into bite size pieces
 
 When you first start out, problem solving and function writing can be daunting
